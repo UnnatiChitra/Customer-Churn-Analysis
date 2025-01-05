@@ -10,9 +10,9 @@ Created new features (e.g., average spend per month, usage patterns).
 Encoded categorical variables and scale numerical ones.
 ## 3. Predictive Modeling
 Build and compared the performance of the following models to predict churn:
-Logistic Regression
-Decision Trees
-Random Forest
+- Logistic Regression
+- Decision Trees
+- Random Forest
 Evaluated models using metrics such as accuracy, precision, recall, and F1-score.
 Included a confusion matrix for the best-performing model.
 ## 4. Model Interpretation
